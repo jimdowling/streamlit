@@ -1,2 +1,2 @@
 streamlit
-hsfs[hive]
+git+https://github.com/logicalclocks/feature-store-api@master#egg=hsfs[hive]&subdirectory=python
